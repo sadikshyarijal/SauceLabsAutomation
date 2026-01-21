@@ -15,4 +15,3 @@ pipeline {
         }
     }
 }
- #these are grovy codes.
